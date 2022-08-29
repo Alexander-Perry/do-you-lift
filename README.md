@@ -49,8 +49,8 @@ Test sign-up, login, updating user profile, adding and selecting workouts
 
 ## Questions
 Contact Me: 
-* GitHub: http://github.com/
-* e-mail: 
+* GitHub: https://github.com/Alexander-Perry/
+* e-mail: alexander.h.perry@gmail.com
 
 ## Licensing:
 
